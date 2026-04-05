@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="45">
+  <defs>
+    <style>
+      .pill {
+        fill: #0d1117;
+        stroke: #30363d;
+        stroke-width: 1;
+      }
+      .pill-text {
+        font-family: 'Monaco', 'Courier New', monospace;
+        font-size: 13px;
+        fill: #58a6ff;
+        text-anchor: middle;
+      }
+    </style>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <!-- Terraform -->
+  <rect class="pill" x="10" y="10" width="70" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="45" y="28">Terraform</text>
+
+  <!-- AWS -->
+  <rect class="pill" x="90" y="10" width="50" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="115" y="28">AWS</text>
+
+  <!-- GCP -->
+  <rect class="pill" x="150" y="10" width="50" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="175" y="28">GCP</text>
+
+  <!-- Azure -->
+  <rect class="pill" x="210" y="10" width="60" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="240" y="28">Azure</text>
+
+  <!-- Kubernetes -->
+  <rect class="pill" x="280" y="10" width="90" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="325" y="28">Kubernetes</text>
+
+  <!-- Docker -->
+  <rect class="pill" x="380" y="10" width="65" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="412" y="28">Docker</text>
+
+  <!-- Jenkins -->
+  <rect class="pill" x="455" y="10" width="65" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="487" y="28">Jenkins</text>
+
+  <!-- GitHub Actions -->
+  <rect class="pill" x="530" y="10" width="130" height="25" rx="12" filter="url(#shadow)"/>
+  <text class="pill-text" x="595" y="28">GitHub Actions</text>
+</svg>

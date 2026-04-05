@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
+  <defs>
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      .name-text {
+        font-family: 'Monaco', 'Courier New', monospace;
+        font-size: 36px;
+        font-weight: bold;
+        fill: #58a6ff;
+        animation: fadeIn 1.5s ease-out forwards;
+      }
+    </style>
+  </defs>
+  <text class="name-text" x="0" y="40">akshaY</text>
+</svg>
