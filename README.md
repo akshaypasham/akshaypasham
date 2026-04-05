@@ -12,9 +12,8 @@
   </div>
 
   <!-- Terminal Content -->
-  <div style="padding: 20px 16px; background: linear-gradient(135deg, #0a0e27 0%, #0f1535 100%); min-height: 70px; display: flex; align-items: center;">
-    <span style="color: #58a6ff; font-family: 'Monaco', monospace; font-size: 13px; margin-right: 8px;">$</span>
-    [![Typing Animation](https://readme-typing-svg.demolab.com?font=Courier+Code&size=13&duration=3000&pause=1000&color=58A6FF&width=900&lines=DevOps%3A+Choreographing+Chaos+%7C+Scaling+Across+Dimensions+%7C+Engineering+Controlled+Impossibility+⚡)](https://github.com/akshaypasham)
+  <div style="padding: 20px 16px; background: linear-gradient(135deg, #0a0e27 0%, #0f1535 100%); min-height: 80px; display: flex; align-items: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&size=13&duration=3000&pause=1000&color=58A6FF&width=900&lines=DevOps%3A+Choreographing+Chaos+%7C+Scaling+Across+Dimensions+%7C+Engineering+Controlled+Impossibility+⚡" alt="DevOps one-liner" style="margin: 0; padding: 0;">
   </div>
 
 </div>
