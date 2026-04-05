@@ -1,5 +1,7 @@
 <img src="name.svg" height="50"/>
 
+<img src="typing-animation.svg" alt="DevOps: Choreographing Chaos | Scaling Across Dimensions | Engineering Controlled Impossibility"/>
+
 <img src="role.svg" height="40"/>
 
 ---
