@@ -1,6 +1,6 @@
 <img src="name.svg" height="50"/>
 
-<img src="typing-animation.svg" alt="DevOps: Choreographing Chaos | Scaling Across Dimensions | Engineering Controlled Impossibility"/>
+[![Typing Animation](https://readme-typing-svg.demolab.com?font=Courier+Code&size=18&duration=3000&pause=1000&color=58A6FF&width=900&lines=DevOps%3A+Choreographing+Chaos+%7C+Scaling+Across+Dimensions+%7C+Engineering+Controlled+Impossibility+⚡)](https://github.com/akshaypasham)
 
 <img src="role.svg" height="40"/>
 
